@@ -1,2 +1,2 @@
 what language should we use?
-
+C++ if you don't mind, or Java even. Unless you can write this in Assembly, which I highly doubt it.
